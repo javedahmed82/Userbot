@@ -127,3 +127,5 @@ def register(client, state):
         await event.edit(msg)
 
     register_cmd(client, state, "system", system_handler)
+
+#error clear
